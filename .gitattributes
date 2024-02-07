@@ -1,0 +1,10 @@
+# Ignore all files and directories
+* linguist-vendored
+
+# Except for specific file types or directories
+!*.dart
+!/android/**
+!/ios/**
+!/lib/**
+!/pubspec.yaml
+!/pubspec.lock
