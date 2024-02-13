@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     Color blackBean = Color(0xFF3C1518);
     Color bloodRed = Color(0xFF69140E);
-    Color basicBrown = Color(0xFFA44200);
+    //Color basicBrown = Color(0xFFA44200);
     Color bronze = Color(0xFFD58936);
     Color vanilla = Color(0xFFF2F3AE);
 
